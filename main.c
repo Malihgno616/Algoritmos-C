@@ -22,8 +22,8 @@ int main() {
 
 // %d - Exibe/Lê um número inteiro
 // %f - Exibe/Lê um número real
-// %c - Exibe/Lê um caractere
-// %s - Exibe/Lê uma string
+// %c - Exibe/Lê um caractere - uma letra apenas
+// %s - Exibe/Lê uma string - uma palavra
 // %e - Exibe-Lê um numero em notação científica
 
 // stdio: 
